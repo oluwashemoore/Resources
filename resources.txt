@@ -1,3 +1,6 @@
+    BROAD PROGRAMMING CONCEPTS   
+1. https://deviq.com/ 
+    
     SOFTWARE DEVELOPMENT PATTERNS
 1. https://deviq.com/category/patterns/
 2. https://en.wikipedia.org/wiki/Software_design_pattern
