@@ -1,4 +1,4 @@
-    Patterns
+    SOFTWARE DEVELOPMENT PATTERNS
 1. https://deviq.com/category/patterns/
 2. https://en.wikipedia.org/wiki/Software_design_pattern
 3. https://martinfowler.com/eaaCatalog/
